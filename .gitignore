@@ -1,0 +1,19 @@
+# Build output
+HospitalTriage/out/
+HospitalTriage/build/
+HospitalTriage/dist/
+HospitalTriage/nbproject/private/
+*.class
+
+# Submission files and course material (not part of the source repo)
+*.zip
+*.docx
+*.pdf
+tools/
+
+# IDE / OS clutter
+.idea/workspace.xml
+.idea/shelf/
+*.swp
+.DS_Store
+Thumbs.db
